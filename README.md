@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cs Undergrad at Institute of management sciences (I M|Sciences)
+Cs Undergrad at Institute of management sciences ( IM|Sciences)
 
 
 ## 🌐 Socials:
