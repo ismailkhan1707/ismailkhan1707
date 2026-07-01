@@ -6,7 +6,6 @@
 * I'm currently learning **AI & ML**
 * Always down to chat about **bringing game worlds to life and training intelligent models**
 * Reach me at **[My Email](mailto:ismailkb2004@gmail.com)**
-* Fun fact **I write code that defies `import antigravity`**
 
 Feel free to Connect with me on **[LinkedIn](https://www.linkedin.com/in/ismail-khan-0a9098392)**
 
