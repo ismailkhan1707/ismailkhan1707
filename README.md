@@ -4,7 +4,7 @@
 
 * I'm currently a **Computer Science Undergrad at IMSciences, Peshawar**
 * I'm currently learning **Python, Arduino, Raylib, C++, C#, UNITY, and Linux**
-* Talk to me about **Writing code, Building games, AI, and ML**
+* Always down to chat about **bringing game worlds to life and training intelligent models**
 * Reach me at **[My Email](mailto:ismailkb2004@gmail.com)**
 * Fun fact **I write code that defies `import antigravity`**
 
