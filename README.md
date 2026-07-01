@@ -3,7 +3,7 @@
 ### <p align="center">A passionate 21 year old Technology enthusiast from Peshawar, Pakistan 🇵🇰</p>
 
 * I'm currently a **Computer Science Undergraduate at IM|Sciences, Peshawar**
-* I'm currently learning ** AI & ML**
+* I'm currently learning **AI & ML**
 * Always down to chat about **bringing game worlds to life and training intelligent models**
 * Reach me at **[My Email](mailto:ismailkb2004@gmail.com)**
 * Fun fact **I write code that defies `import antigravity`**
